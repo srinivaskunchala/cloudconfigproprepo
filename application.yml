@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: Srirama
+  foo: Srirama1
   someList: [1, 2, 3]
